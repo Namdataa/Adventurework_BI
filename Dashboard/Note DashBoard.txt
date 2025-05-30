@@ -1,0 +1,2 @@
+1: The Dashboard .pbix file is for those who want to run the model, connecting to the Adventurework database. 
+If you are an employer, please check the Dashboard file in PDF format to quickly evaluate the candidate's skills and experience.
